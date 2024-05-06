@@ -11,12 +11,19 @@ Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
 Step 1: Begin the program.
+
 Step 2: Prompt the user to input the first number.
+
 Step 3: Prompt the user to input the second number.
+
 Step 4: Check if both inputs are valid numbers.
+
 Step 5: If any input is invalid, display an error message and return to step 2.
+
 Step 6: Add the two numbers together to find their sum.
+
 Step 7: Display the sum to the user.
+
 Step 8: End the program
 
 
